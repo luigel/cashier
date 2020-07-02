@@ -30,7 +30,7 @@
         "illuminate/support": "~5.7.0|~5.8.0|~5.9.0",
         "illuminate/view": "~5.7.0|~5.8.0|~5.9.0",
         "nesbot/carbon": "^1.26.3|^2.0",
-        "stripe/stripe-php": "^6.43.3",
+        "stripe/stripe-php": "^6.43.1",
         "symfony/http-kernel": "~4.0"
     },
     "require-dev": {
